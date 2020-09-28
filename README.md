@@ -1,6 +1,9 @@
 # quiz_app
 
 A new Flutter project.
+![Screenshot_20200928-233213](https://user-images.githubusercontent.com/33056647/94466433-3c8cda80-01e3-11eb-89b5-3f902665452a.jpg)
+![Screenshot_20200928-233231](https://user-images.githubusercontent.com/33056647/94466437-3f87cb00-01e3-11eb-8026-b16cedcc871d.jpg)
+![Screenshot_20200928-233255](https://user-images.githubusercontent.com/33056647/94466444-41ea2500-01e3-11eb-8cbf-ed07cf76ae4c.jpg)
 
 ## Getting Started
 
